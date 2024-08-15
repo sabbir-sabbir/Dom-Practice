@@ -1,0 +1,22 @@
+#mark{
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+
+button{
+    margin-left: 50%;
+    margin-top: 5px;
+    border: none;
+    border-radius: 6px;
+    background-color: lightgreen;
+    padding: 10px 15px;
+    font-size: larger;
+    
+
+
+
+}
+button:hover{
+    background-color: red;
+}
